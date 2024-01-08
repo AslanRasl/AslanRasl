@@ -184,10 +184,4 @@ a>
 ## 💻 Last month's activity
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 <a href=""><img alt="clevercoderr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AslanRasl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-[README.md](https://github.com/AslanRasl/AslanRasl/files/13864574/README.md)
-.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
