@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-    Welcome to roziqov profile!
+    Welcome to AslanRasl profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -39,7 +39,7 @@
     <a href="https://t.me/RRT0110"> -->
         <img alt="telelgram"
              src="https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://www.facebook.com/profile.php?id=100068970307814">
+    <a href="[https://www.facebook.com/profile.php?id=100068970307814](https://t.me/Aslanrasl)">
 </p>
 
 
