@@ -8,7 +8,7 @@
 
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/roziqov1011/readme-typing-svg">
+    <a href="https://github.com/AslanRasl/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=M%20E%20R%20N%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
@@ -18,7 +18,7 @@
 
 <!-- Badges template - https://github.com/clevercoderr -->
 <p align="center">
-    <a href="https://github.com/roziqov1011">
+    <a href="https://github.com/AslanRasl">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <!--     <a href="https://www.linkedin.com/in/rozivoy-rozikov-a64761218/">
@@ -45,10 +45,10 @@
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=roziqov1011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="roziqov1011 Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=roziqov1011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roziqov1011&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="roziqov1011 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roziqov1011&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=AslanRasl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="AslanRasl Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=AslanRasl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AslanRasl&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="AslanRasl Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AslanRasl&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 
@@ -177,13 +177,13 @@ a>
 <!-- GitHub Readme Streak Stats - https://github.com/clevercoderr/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="CleverCoderr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=clevercoderr&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="CleverCoderr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AslanRasl&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
 ## 💻 Last month's activity
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
-<a href=""><img alt="clevercoderr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roziqov1011&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="clevercoderr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AslanRasl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 [README.md](https://github.com/AslanRasl/AslanRasl/files/13864574/README.md)
 .
