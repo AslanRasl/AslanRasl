@@ -82,12 +82,7 @@
     <a href="#">
         <img alt="vercel"
              src="https://img.shields.io/badge/vercel-fff.svg?style=for-the-badge&logo=vercel&logoColor=000"/></a>
-    <a href="#">
-        <img alt="netlify"
-             src="https://img.shields.io/badge/netlify-46a2eb.svg?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Heroku"
-             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+    
    
 </p>
 
