@@ -59,6 +59,10 @@
 ### 👨‍💻 Programming Languages
 
 <p>
+        <a href="#">
+        <img alt="vercel"
+             src="[https://img.shields.io/badge/vercel-fff.svg?style=for-the-badge&logo=vercel&logoColor=000](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)"/></a>
+    
  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
