@@ -112,16 +112,7 @@
     <a href="#">
         <img alt="Vsual Studio"
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
-    <a href="#">
-        <img alt="Postman"
-             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-    <a href="#">
-        <img alt="NGINX" 
-             src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
+ 
 </p>
 
 ### 💻 My favorite operating systems
